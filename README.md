@@ -53,7 +53,7 @@ streamlit run streamlit_app.py
 ├── scaler.pkl
 ├── streamlit_app.py
 ├── svm_model_rbf.pkl
-└── train_model.py
+└── ModeloFinal.ipynb
 ```
 
 ### Notas:
