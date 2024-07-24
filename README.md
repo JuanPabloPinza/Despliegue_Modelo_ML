@@ -16,10 +16,11 @@ Este proyecto implementa un sistema de predicción de ingresos anuales utilizand
 
 Primero, crea y activa un nuevo entorno en Anaconda:
 
-```bash
+` ``` `
+
 conda create --name prediccion_ingresos python=3.9
 conda activate prediccion_ingresos
-```bash
+` ``` `
 
 ### Paso 2: Instalar las Bibliotecas Necesarias
 Instala las bibliotecas necesarias en tu entorno Conda:
