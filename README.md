@@ -29,6 +29,7 @@ conda install -c conda-forge streamlit
 conda install scikit-learn
 conda install pandas
 conda install numpy
+pip install streamlit
 ```
 ### Paso 3: Entrenamiento y Guardado del Modelo
 Antes de ejecutar la aplicación, necesitas entrenar y guardar el modelo y el escalador. Ejecuta el siguiente código ModeloFinal.ipynb
